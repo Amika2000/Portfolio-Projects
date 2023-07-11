@@ -1,0 +1,7 @@
+## Predicting Carbon Emissions
+The first project focuses on predicting carbon emissions in specific regions of South Africa, utilising data collected from 2019 to 2022. This project was undertaken as part of the Ernst & Young Carbon Prediction Hackathon, and its code has been included in my portfolio with permission under a Creative Commons License. The code was developed and executed using Google Colab, while a machine learning model was employed for making predictions. To evaluate the model's performance, the Root Mean Squared Error (RMSE) was calculated for two different types of models: a Random Forest model and a Boosting model. The model that demonstrated a lower RMSE was selected for generating the final predictions.
+
+Please note that the provided code involves downloading the 'Train,' 'Test,' and 'SampleSubmission' files and mounting them onto the drive.
+
+## Covid 19 Summary
+The second project entails creating a Tableau dashboard that summarises data from the 'covid_19_data' dataset. The dashboard has been recreated based on the works of Databoard Analytics (https://www.youtube.com/watch?v=sX5iupivFN8) to showcase my skills. It provides an overview of the total confirmed cases and recovered cases for different countries and continents, as well as presenting the total death count. It should be noted that the summary created in Tableau may overestimate the actual total counts and is intended for skill demonstration purposes rather than providing an accurate representation of the data collected between 2021 and 2022.
